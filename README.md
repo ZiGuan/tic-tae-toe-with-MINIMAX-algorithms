@@ -9,8 +9,8 @@ Here are a few examples of games where Minimax can be applied:
 
 ## Tic-Tae-Toe Examples
 
-The first circumstances is A.I won the games: </br>
+The first circumstances is A.I won the games: </br></br>
 ![](/images/ai_won.png)
 
-The second circumstances is tied games: </br>
+The second circumstances is tied games: </br></br>
 ![](/images/tied.png)
