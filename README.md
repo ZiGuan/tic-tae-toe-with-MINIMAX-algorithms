@@ -9,6 +9,9 @@ Here are a few examples of games where Minimax can be applied:
 
 ## Tic-Tae-Toe Examples
 
+Tic-Tae-Toe board in Terminal:
+![](/images/board.png)
+
 The first circumstances is A.I won the games: </br></br>
 ![](/images/ai_won.png)
 
