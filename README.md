@@ -1,4 +1,4 @@
-# Unbeatable tic-tae-toe game with A.I
+# Playing game with unbeatable A.I
 
 The `MINIMAX` algorithm is a decision-making algorithm that is used for finding the best move in a two player game and it’s a recursive algorithm. 
 Here are a few examples of games where Minimax can be applied:
