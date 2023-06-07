@@ -17,3 +17,6 @@ The first circumstances is A.I won the games: </br></br>
 
 The second circumstances is tied games: </br></br>
 ![](/images/tied.png)
+
+
+## Connect Four Examples
